@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTest</string>
+    <string name="myName">이름 :</string>
+    <string name="mtScore1">정보시스템 점수</string>
+    <string name="myScore2">프로그래밍 활용 점수</string>
+    <string name="myScore3">데이터베이스 활용 점수</string>
+</resources>
